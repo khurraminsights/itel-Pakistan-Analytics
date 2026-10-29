@@ -1,6 +1,6 @@
 # itel Pakistan | Sales & Operations Analytics
 
-![itel Pakistan Analytics Banner](itel-banner.png)
+<img width="2048" height="768" alt="itel-banner png" src="https://github.com/user-attachments/assets/1a44dbe5-518f-40b9-bdcf-fb3b467a1376" />
 
 **An end-to-end SQL Server and Power BI portfolio case study using synthetic smartphone distribution data.**
 
