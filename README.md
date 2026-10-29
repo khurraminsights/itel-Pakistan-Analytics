@@ -1,6 +1,6 @@
 # itel Pakistan | Sales & Operations Analytics
 
-<img width="1672" height="941" alt="itel Pakistan_ Neon Power BI Analytics Showcase" src="https://github.com/user-attachments/assets/4fe4c3ab-a98a-45bc-84fb-735b84e4f8a5" />
+![itel Pakistan Analytics Banner](itel-banner.png)
 
 **An end-to-end SQL Server and Power BI portfolio case study using synthetic smartphone distribution data.**
 
